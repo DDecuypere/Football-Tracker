@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Footballer</string>
+    <string name="player">Player</string>
+    <string name="team">Team</string>
+    <string name="league">League</string>
+    <string name="info">Info</string>
+    <string name="team_stats">Statistics</string>
+    <string name="position">ST</string>
+    <string name="name_of_team">Team</string>
+    <string name="goal_difference">GD</string>
+    <string name="points">PT</string>
+    <string name="table">Table</string>
+    <string name="crest">crest</string>
+    <string name="current_fixture">current fixture</string>
+    <string name="fixture_details">HomeTeam: %1$s \n Score: %2$s \n AwayTeam: %3$s</string>
+    <string name="current_table">current table</string>
+    <string name="current_table_standings">%1$s</string>
+    <string name="share">share</string>
+    <string name="fixture">fixture</string>
+    <string name="score">score</string>
+    <string name="halfTime">Halftime</string>
+    <string name="fullTime">Fulltime</string>
+    <string name="squad">Squad</string>
+    <string name="venue">Venue</string>
+    <string name="founded">Founded</string>
+    <string name="no_data_found">no data was found</string>
+</resources>

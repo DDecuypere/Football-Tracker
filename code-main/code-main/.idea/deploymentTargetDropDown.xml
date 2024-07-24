@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="All Tests">
+        <State />
+      </entry>
+      <entry key="AppViewModelProviderTest">
+        <State />
+      </entry>
+      <entry key="NavigationTest">
+        <State />
+      </entry>
+      <entry key="app">
+        <State />
+      </entry>
+      <entry key="testNavigationToFixtureScreen()">
+        <State />
+      </entry>
+      <entry key="testNavigationToTeamScreen()">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
